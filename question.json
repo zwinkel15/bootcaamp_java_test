@@ -1,0 +1,10 @@
+
+ 
+
+{
+  "category": "Cultura",
+  "question": "¿Capital de Peru?",
+  "options": ["Montevideo", "Lima", "Barranquilla","La paz"],
+  "answer": 1,
+  "explanation": "Lima capital del peru donde pizarro lo instalo como capital en el virreynato"
+}
